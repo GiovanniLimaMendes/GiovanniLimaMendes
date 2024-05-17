@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GiovanniLimaMendes
-- 🌱 I'm currently learning Web Development with PHP
+- 🌱 I'm currently learning Web Development with Javascript and Node.Js
 - 📫 How to reach me e-mail or LinkedIn: giovannilmendes@gmail.com or https://www.linkedin.com/in/giovanni-lima-mendes-804742203/
 - 📝 I'm currently studying Software Engineering at International University Center Uninter
